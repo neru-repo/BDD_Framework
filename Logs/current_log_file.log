@@ -1,0 +1,23 @@
+09/07/2023 10:02:45 PM: INFO: login: step_impl: Email field is located
+09/07/2023 10:02:45 PM: INFO: login: step_impl: Password field is located
+09/07/2023 10:02:45 PM: INFO: common_methods: send_keys: Entered text is gvigne22@ford.com in locator: <selenium.webdriver.remote.webelement.WebElement (session="b40ce130d04f4b878d3d2e44324ca474", element="CDE89F46EF4E4A316D4D0353A59E2B8A_element_2")>
+09/07/2023 10:02:50 PM: INFO: common_methods: send_keys: Entered text is Ford@2023 in locator: <selenium.webdriver.remote.webelement.WebElement (session="b40ce130d04f4b878d3d2e44324ca474", element="CDE89F46EF4E4A316D4D0353A59E2B8A_element_3")>
+09/07/2023 10:02:55 PM: INFO: common_methods: click: Submit button clicked
+09/07/2023 10:03:10 PM: INFO: common_methods: get_text: <selenium.webdriver.remote.webelement.WebElement (session="b40ce130d04f4b878d3d2e44324ca474", element="2FEB52509E413F3DE366691A9A480EE0_element_61")>
+09/07/2023 10:03:10 PM: INFO: common_methods: get_text: The text obtained is Dashboard
+09/07/2023 10:03:30 PM: INFO: login_diff_creds: step_impl: Email field is located
+09/07/2023 10:03:30 PM: INFO: login_diff_creds: step_impl: Password field is located
+09/07/2023 10:03:30 PM: INFO: common_methods: send_keys: Entered text is gvigne22@ford.com in locator: <selenium.webdriver.remote.webelement.WebElement (session="bb9adf15767c9ae4ec5b2611ec638aa1", element="3CC9F4F59B44029111CF02236AB8D07C_element_3")>
+09/07/2023 10:03:35 PM: INFO: common_methods: send_keys: Entered text is Ford@2023! in locator: <selenium.webdriver.remote.webelement.WebElement (session="bb9adf15767c9ae4ec5b2611ec638aa1", element="3CC9F4F59B44029111CF02236AB8D07C_element_4")>
+09/07/2023 10:03:40 PM: INFO: common_methods: click: Submit button clicked
+09/07/2023 10:03:45 PM: INFO: common_methods: get_text: <selenium.webdriver.remote.webelement.WebElement (session="bb9adf15767c9ae4ec5b2611ec638aa1", element="3CC9F4F59B44029111CF02236AB8D07C_element_28")>
+09/07/2023 10:03:45 PM: INFO: common_methods: get_text: The text obtained is Your password is incorrect
+09/07/2023 10:03:45 PM: INFO: login_diff_creds: step_impl: Your password is incorrect
+09/07/2023 10:03:51 PM: INFO: login_diff_creds: step_impl: Email field is located
+09/07/2023 10:03:51 PM: INFO: login_diff_creds: step_impl: Password field is located
+09/07/2023 10:03:51 PM: INFO: common_methods: send_keys: Entered text is gvigne22@ford.com in locator: <selenium.webdriver.remote.webelement.WebElement (session="bb9adf15767c9ae4ec5b2611ec638aa1", element="9869AF78E4BA4FB974542633FD392DE0_element_31")>
+09/07/2023 10:03:56 PM: INFO: common_methods: send_keys: Entered text is Ford@2022 in locator: <selenium.webdriver.remote.webelement.WebElement (session="bb9adf15767c9ae4ec5b2611ec638aa1", element="9869AF78E4BA4FB974542633FD392DE0_element_32")>
+09/07/2023 10:04:01 PM: INFO: common_methods: click: Submit button clicked
+09/07/2023 10:04:06 PM: INFO: common_methods: get_text: <selenium.webdriver.remote.webelement.WebElement (session="bb9adf15767c9ae4ec5b2611ec638aa1", element="9869AF78E4BA4FB974542633FD392DE0_element_36")>
+09/07/2023 10:04:06 PM: INFO: common_methods: get_text: The text obtained is Your password is incorrect
+09/07/2023 10:04:06 PM: INFO: login_diff_creds: step_impl: Your password is incorrect

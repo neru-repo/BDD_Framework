@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"aa718be1e337a93e1831fb33b20cad47","name":"Check different Login combinations","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"6fbd7542288dc8152e578dbfcbcfd87c","name":"Check login feature","statistic":{"failed":0,"broken":0,"skipped":2,"passed":0,"unknown":0,"total":2}}]}

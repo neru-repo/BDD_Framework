@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 09 21:58:51 IST 2023","Sun Jul 09 21:59:12 IST 2023","20645","","","","","","Check Login with different Credentials -- @1.2 Credentials",""
+"passed","Sun Jul 09 21:58:31 IST 2023","Sun Jul 09 21:58:51 IST 2023","20792","","","","","","Check Login with different Credentials -- @1.1 Credentials",""
+"skipped","Sun Jul 09 21:58:21 IST 2023","Sun Jul 09 21:58:21 IST 2023","0","","","","","","Invalid credentials",""
+"skipped","Sun Jul 09 21:58:21 IST 2023","Sun Jul 09 21:58:21 IST 2023","0","","","","","","Valid credentials",""
