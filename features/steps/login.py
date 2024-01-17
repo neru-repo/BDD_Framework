@@ -17,9 +17,9 @@ def step_impl(context):
     password_ele = CommonMethods.find_element(context.driver, password_field)
     log.info("Password field is located")
     submit_field = Locators().submit
-    CommonMethods.send_keys(email_ele, "gvigne22@ford.com")
+    CommonMethods.send_keys(email_ele, "gurushv27@gmail.com")
     time.sleep(5)
-    CommonMethods.send_keys(password_ele, "Ford@2023")
+    CommonMethods.send_keys(password_ele, "Ommuruga@6")
     time.sleep(5)
     CommonMethods().click(context.driver, submit_field)
     time.sleep(5)
